@@ -1,0 +1,99 @@
+<svg width="360" height="280" viewBox="0 0 360 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M 18 0 L 0 0 0 18" fill="none" stroke="#1a3a2a" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#1e4d35" opacity="0.8"/>
+    </pattern>
+    <filter id="softglow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="cornerglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="innerClip">
+      <rect x="10" y="32" width="340" height="222" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <!-- Dark base -->
+  <rect width="360" height="280" rx="14" fill="#060e08"/>
+  <!-- Grid overlay -->
+  <rect width="360" height="280" rx="14" fill="url(#grid)" opacity="0.9"/>
+  <!-- Dot overlay -->
+  <rect width="360" height="280" rx="14" fill="url(#dots)" opacity="0.45"/>
+
+  <!-- Ambient glow blobs -->
+  <circle cx="40"  cy="240" r="90" fill="#163d26" opacity="0.45" filter="url(#softglow)"/>
+  <circle cx="320" cy="40"  r="80" fill="#1e5c36" opacity="0.30" filter="url(#softglow)"/>
+  <circle cx="180" cy="140" r="60" fill="#2d8f55" opacity="0.08" filter="url(#softglow)"/>
+
+  <!-- ── Terminal top bar ── -->
+  <rect x="0" y="0" width="360" height="32" fill="#0b1c10" rx="14"/>
+  <rect x="0" y="18" width="360" height="14" fill="#0b1c10"/>
+  <!-- Traffic dots -->
+  <circle cx="18" cy="16" r="5" fill="#2a4d35"/>
+  <circle cx="34" cy="16" r="5" fill="#235c38"/>
+  <circle cx="50" cy="16" r="5" fill="#3fb06a">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Bar label -->
+  <text x="180" y="21" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2d8f55" letter-spacing="1.5">utkarsh@dev  ~/coding.gif</text>
+
+  <!-- ── GIF placeholder rect (replace with <image> if self-hosting) ── -->
+  <rect x="10" y="32" width="340" height="222" rx="6" fill="#0a120c"/>
+  <!-- Subtle green tint over content area -->
+  <rect x="10" y="32" width="340" height="222" rx="6" fill="#0d2618" opacity="0.22"/>
+
+  <!-- ── Scan line sweep ── -->
+  <rect x="10" width="340" height="2" rx="1" fill="#3fb06a">
+    <animate attributeName="y" values="32;254;32" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.4;0.4;0" keyTimes="0;0.04;0.96;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── Pulsing inner border ── -->
+  <rect x="10" y="32" width="340" height="222" rx="6" fill="none" stroke="#2d8f55" stroke-width="1.2">
+    <animate attributeName="stroke-opacity" values="0.25;0.85;0.25" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── Outer card border (static) ── -->
+  <rect x="1" y="1" width="358" height="278" rx="13" fill="none" stroke="#1a3a2a" stroke-width="1"/>
+
+  <!-- ── Corner brackets (top-left) ── -->
+  <path d="M24,40 L10,40 L10,56" stroke="#3fb06a" stroke-width="2" fill="none" stroke-linecap="round" filter="url(#cornerglow)"/>
+  <!-- ── Corner brackets (top-right) ── -->
+  <path d="M336,40 L350,40 L350,56" stroke="#3fb06a" stroke-width="2" fill="none" stroke-linecap="round" filter="url(#cornerglow)"/>
+  <!-- ── Corner brackets (bottom-left) ── -->
+  <path d="M24,246 L10,246 L10,230" stroke="#3fb06a" stroke-width="2" fill="none" stroke-linecap="round" filter="url(#cornerglow)"/>
+  <!-- ── Corner brackets (bottom-right) ── -->
+  <path d="M336,246 L350,246 L350,230" stroke="#3fb06a" stroke-width="2" fill="none" stroke-linecap="round" filter="url(#cornerglow)"/>
+
+  <!-- ── Floating edge particles ── -->
+  <circle cx="5"   cy="100" r="1.8" fill="#3fb06a" opacity="0.55">
+    <animate attributeName="cy"      values="100;80;100"   dur="5s"   repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55"  dur="5s"   repeatCount="indefinite"/>
+  </circle>
+  <circle cx="355" cy="160" r="1.5" fill="#2d8f55" opacity="0.45">
+    <animate attributeName="cy"      values="160;140;160"  dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;0.9;0.45" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="355" cy="210" r="1"   fill="#3fb06a" opacity="0.30">
+    <animate attributeName="cy"      values="210;190;210"  dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="5"   cy="200" r="1.2" fill="#2d8f55" opacity="0.40">
+    <animate attributeName="cy"      values="200;220;200"  dur="7s"   repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ── Bottom status bar ── -->
+  <rect x="0"  y="258" width="360" height="22" fill="#0b1c10"/>
+  <rect x="0"  y="257" width="360" height="1"  fill="#1a3a2a"/>
+  <!-- Pulsing status dot -->
+  <circle cx="16" cy="269" r="4" fill="#3fb06a">
+    <animate attributeName="opacity" values="1;0.25;1"  dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="r"       values="4;5.5;4"   dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="26"  y="273" font-family="'Courier New', monospace" font-size="8.5" fill="#3fb06a" letter-spacing="0.5">OPEN TO WORK</text>
+  <text x="210" y="273" font-family="'Courier New', monospace" font-size="8.5" fill="#2d6644" letter-spacing="0.5">REMOTE · US / UK / GLOBAL</text>
+</svg>
