@@ -90,8 +90,8 @@ const utkarshMaurya = {
 | 🧪 API Testing | 15+ REST endpoints tested via Postman |
 | 🚀 Deployment | Frontend → **Vercel** · Backend → **Render** |
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-3FB06A?style=flat-square&logo=github&labelColor=0d1117)](/)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2D8F55?style=flat-square&logo=vercel&labelColor=0d1117)](/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-3FB06A?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Utkarsh-Mauryaa/Howdy-A-Chat-Application)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2D8F55?style=flat-square&logo=vercel&labelColor=0d1117)](https://howdy-frontend-1zs1.vercel.app/)
 
 </details>
 
@@ -110,8 +110,8 @@ const utkarshMaurya = {
 | 📊 Evaluation System | Pass/fail verdicts + star ratings per session |
 | 🏗️ Session Recordings | Access to recorded interview sessions |
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-3FB06A?style=flat-square&logo=github&labelColor=0d1117)](/)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2D8F55?style=flat-square&logo=vercel&labelColor=0d1117)](/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-3FB06A?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Utkarsh-Mauryaa/Code-Front-An-Interview-Platform)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2D8F55?style=flat-square&logo=vercel&labelColor=0d1117)](https://code-front-an-interview-platform.vercel.app/)
 
 </details>
 
