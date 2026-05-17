@@ -175,26 +175,3 @@ Target: Remote Full-Stack Internship (US/UK/Global) 🎯
 
 <br/>
 
-```
-💼  Role: Full-Stack Web Development Intern
-🌐  Type: Remote (Any Country)
-⏳  Duration: Flexible
-🚀  Available: Immediately
-```
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║  "Code is like humor. When you have to  ║
-║   explain it, it's bad." — Cory House   ║
-╚══════════════════════════════════════════╝
-```
-
-*⭐ Star my repos if you find them useful!*
-
-</div>
