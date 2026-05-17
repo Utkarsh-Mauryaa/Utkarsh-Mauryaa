@@ -169,9 +169,9 @@ Target: Remote Full-Stack Internship (US/UK/Global) 🎯
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarsh3341@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/utkarsh-maurya-24b884292/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/Utkarsh-Mauryaa))
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/yourusername](https://x.com/Utkarsh33211))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/utkarsh-maurya-24b884292/])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Utkarsh-Mauryaa])
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/Utkarsh33211])
 
 <br/>
 
