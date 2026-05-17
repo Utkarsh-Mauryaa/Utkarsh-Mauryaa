@@ -96,7 +96,7 @@ const utkarshMaurya = {
 </details>
 
 <details>
-<summary><b>🟢 CodeFront — Interview Management Platform (2025)</b></summary>
+<summary><b>🟢 CodeFront — Interview Management Platform (2026)</b></summary>
 
 <br/>
 
