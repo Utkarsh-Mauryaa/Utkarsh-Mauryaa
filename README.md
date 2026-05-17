@@ -20,7 +20,7 @@
 ```javascript
 const utkarshMaurya = {
   role: "Full-Stack Web Developer & Open Source Contributor",
-  location: "Gorakhpur, UP 🇮🇳",
+  location: "Lucknow, UP 🇮🇳",
   education: "B.Tech CSE @ [University] (2023–2027)",
   lookingFor: "Remote Internships 🌍 (US / UK / Any Country)",
   openSource: ["CNCF", "Meshery (Layer5)", "Jitsi"],
