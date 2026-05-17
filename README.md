@@ -21,7 +21,7 @@
 const utkarshMaurya = {
   role: "Full-Stack Web Developer & Open Source Contributor",
   location: "Lucknow, UP 🇮🇳",
-  education: "B.Tech CSE @ [Madan Mohan Malaviya University of Technology]",
+  education: "B.Tech CSE @ Madan Mohan Malaviya University of Technology",
   lookingFor: "Remote Internships 🌍 (US / UK / Any Country)",
   openSource: ["CNCF", "Meshery (Layer5)", "Jitsi"],
   currentFocus: "Cloud-Native + DevOps + Full-Stack",
