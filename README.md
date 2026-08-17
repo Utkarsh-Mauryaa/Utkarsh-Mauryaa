@@ -42,7 +42,7 @@ const utkarshMaurya = {
 ### 🟩 Meshery — CNCF Sandbox Project
 `Jan 2026 – Present`
 
-> ✅ **PR Merged!** — Successfully merged a contribution to Meshery, a Kubernetes management platform with **10,000+ ⭐ GitHub stars**
+> ✅ **PR Merged!** — Multiple PRs merged in Meshery, a Kubernetes management platform with **10,000+ ⭐ GitHub stars**
 
 - 🔍 Explored codebase & cloud-native workflows
 - 🛠️ Set up project locally, attended newcomers' meetings
@@ -50,20 +50,6 @@ const utkarshMaurya = {
 - 🌐 Engaged with the global CNCF community
 
 [![Meshery](https://img.shields.io/badge/Meshery-CNCF%20Sandbox-3FB06A?style=flat-square&logo=cncf&logoColor=white&labelColor=0d1117)](https://meshery.io)
-
-</td>
-<td width="50%">
-
-### 🔵 Jitsi Organisation
-`Mar 2025 – Apr 2025`
-
-> 🔀 **PR #15865** — UI improvements for meeting cards
-
-- 🎙️ Discussed GSoC proposal with mentor via video call
-- 🔊 Focused on advanced audio: **AEC**, **NS**, **AGC**, **Stereo**
-- 📹 Deep-dived into WebRTC audio processing
-
-[![Jitsi](https://img.shields.io/badge/Jitsi-Open%20Source-2D8F55?style=flat-square&logo=jitsi&logoColor=white&labelColor=0d1117)](https://jitsi.org)
 
 </td>
 </tr>
