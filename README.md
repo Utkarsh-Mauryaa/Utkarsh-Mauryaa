@@ -103,30 +103,6 @@ const utkarshMaurya = {
 
 ---
 
-## `> cat skills.json`
-
-<div align="center">
-
-**⚙️ Languages & Core** &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**🎨 Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**🖼️ UI Libraries** &nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
-
-**🛠️ Backend & Database** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**🔧 Concepts & Tools** &nbsp;
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**🔐 Auth & Security** &nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white) ![Bcrypt](https://img.shields.io/badge/Bcrypt-1E7A3E?style=flat-square&logoColor=white)
-
-</div>
-
 
 ## `> ./currently_exploring.sh`
 
@@ -136,11 +112,8 @@ $ ./learning_path.sh
 [██████████░░░░░░░░░░] Cloud-Native / Kubernetes    50%
 [████████░░░░░░░░░░░░] CNCF Ecosystem (Meshery)     40%
 [██████████████░░░░░░] WebRTC & Real-time Systems   70%
-[████████████████░░░░] Next.js & Full Stack          80%
+[████████████████░░░░] Next.js & Full Stack         80%
 [██████░░░░░░░░░░░░░░] DevOps / CI-CD Pipelines     30%
-
-Status: Actively contributing to Open Source 🟢
-Target: Remote Full-Stack Internship (US/UK/Global) 🎯
 ```
 
 
@@ -149,8 +122,6 @@ Target: Remote Full-Stack Internship (US/UK/Global) 🎯
 <div align="center">
 
 ### 🟢 Available for Remote Internships · Full-Stack Web Development
-
-*Open to opportunities in 🌍 Anywhere Remote*
 
 <br/>
 
