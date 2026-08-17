@@ -103,20 +103,6 @@ const utkarshMaurya = {
 
 ---
 
-
-## `> ./currently_exploring.sh`
-
-```bash
-$ ./learning_path.sh
-
-[██████████░░░░░░░░░░] Cloud-Native / Kubernetes    50%
-[████████░░░░░░░░░░░░] CNCF Ecosystem (Meshery)     40%
-[██████████████░░░░░░] WebRTC & Real-time Systems   70%
-[████████████████░░░░] Next.js & Full Stack         80%
-[██████░░░░░░░░░░░░░░] DevOps / CI-CD Pipelines     30%
-```
-
-
 ## `> contact --hire-me`
 
 <div align="center">
